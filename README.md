@@ -4,4 +4,4 @@
 - 👀 I’m interested in Cyber Security, Web Development
 - 📫 How to reach me: mididodlabhavyasri@gmail.com
 - 😄 Pronouns: she/her
-Languages and Tools: C, C++, Python, Data Structures, Algorithms, HTML, CSS, JavaScript, MySQL
+- Languages and Tools: C, C++, Python, Data Structures, Algorithms, HTML, CSS, JavaScript, MySQL
